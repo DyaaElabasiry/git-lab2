@@ -1,6 +1,2 @@
-<<<<<<< HEAD
 ahmed
-=======
-dyad
-
 helllo m
